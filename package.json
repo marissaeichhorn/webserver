@@ -1,0 +1,16 @@
+{
+  "name": "erdbeertorte",
+  "version": "1.0.0",
+  "description": "ist lecker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erdbeere",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
